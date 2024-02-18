@@ -1,0 +1,12 @@
+/* Footer style */
+
+footer {
+	background-color: #0f0;
+	align-items: center;
+	height: 60px;
+	width: 100%;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+}
